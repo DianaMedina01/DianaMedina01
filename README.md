@@ -18,7 +18,6 @@ Databases: SQL, MySQL
 
 📫 How to reach me: 
 Email: dianamedina012@gmail.com
-Email: dianamedina2805@gmail.com
 LinkedIn: www.linkedin.com/in/diana-medina99
 
 📊 GitHub Stats: Coming soon!
